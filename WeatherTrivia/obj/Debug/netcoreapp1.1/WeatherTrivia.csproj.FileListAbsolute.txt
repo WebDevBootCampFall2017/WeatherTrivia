@@ -1,0 +1,9 @@
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\bin\Debug\netcoreapp1.1\WeatherTrivia.deps.json
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\bin\Debug\netcoreapp1.1\WeatherTrivia.runtimeconfig.json
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\bin\Debug\netcoreapp1.1\WeatherTrivia.runtimeconfig.dev.json
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\bin\Debug\netcoreapp1.1\WeatherTrivia.dll
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\bin\Debug\netcoreapp1.1\WeatherTrivia.pdb
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\obj\Debug\netcoreapp1.1\WeatherTrivia.csprojResolveAssemblyReference.cache
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\obj\Debug\netcoreapp1.1\WeatherTrivia.AssemblyInfo.cs
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\obj\Debug\netcoreapp1.1\WeatherTrivia.dll
+c:\users\bport\documents\visual studio 2017\Projects\WeatherTrivia\WeatherTrivia\obj\Debug\netcoreapp1.1\WeatherTrivia.pdb

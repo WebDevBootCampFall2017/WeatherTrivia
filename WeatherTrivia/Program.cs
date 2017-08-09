@@ -8,6 +8,7 @@ namespace WeatherTrivia
         { 
 
             int correctanswer = 0;
+            int correctanswer1sttry = 0;
 
             //Greeting
             Console.WriteLine("Welcome to the weather trivia game!");
@@ -17,7 +18,7 @@ namespace WeatherTrivia
             Console.WriteLine("Let's get started " + name + "!");
             System.Threading.Thread.Sleep(1500);
 
-
+            int loopcounter = 0;
             bool wascorrect = false;
             do {
                 //Question 1
@@ -36,13 +37,18 @@ namespace WeatherTrivia
                     Console.WriteLine("\nThat is correct!");
                     correctanswer++;
                     wascorrect = true;
+                    if (loopcounter == 0)
+                    {
+                        correctanswer1sttry++;
+                    }
 
                 }
                 else
                 {
-                    Console.WriteLine("\nThat is incorrect, the right answer is {0}", answer1);
+                    Console.WriteLine("\nThat is incorrect, please try again");
 
                 }
+                loopcounter++;
             } while (!wascorrect);
 
 
